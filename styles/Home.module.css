@@ -1,5 +1,7 @@
 .container {
   padding: 0 0rem;
+  max-width: 95vw;
+  margin:auto;
   background-image: url('../pages/assets/bgWhite.png');
   background-attachment: fixed ;
   background-size:cover;
