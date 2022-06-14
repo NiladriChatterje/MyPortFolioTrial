@@ -17,7 +17,8 @@ export default function company({styles}){
     width={'95vw'}
     margin={'auto'}
     backgroundColor={'rgba(180,180,180,0.2)'}
-    id='Company'>
+    id='Company'
+    className={styles.Company}>
         <br />
         <hr />
         <Text fontFamily={'cursive'}
